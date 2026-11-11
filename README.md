@@ -1,5 +1,5 @@
 # KeitaHome Catalogue
 
-Minimal public page for the KeitaHome product catalogue PDF — intended for Instagram bio.
+Public Instagram-bio link: https://keitahome.github.io/keitahome-catalogue/
 
-Open `index.html` or tap **Open catalogue PDF** to view `product-catalogue.pdf`.
+The root page redirects immediately to `product-catalogue.pdf` (Fall 2026).
